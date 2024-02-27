@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "syntax",
+  "oldstuff",
+  "derive",
+  "testfoo"
+]
